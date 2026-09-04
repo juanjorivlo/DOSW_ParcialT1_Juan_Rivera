@@ -67,5 +67,4 @@ perfiles de tutores.
  - que tengan la duración adecuada|
 | **Actor** | Estudiante|
 | **Flujo principal** | 1. El actor ingresa digita PEER_TUTORING  .<br>2. El sistema le muestra las opciones acordes a su elección.<br>3.El estudiante selecciona la mas conveniente. |
-| **Diagrama de caso de uso** |![alt text](<Prioridad profesor.png>)|
 | **Poscondiciones** | La sesión queda agendada para aceptación del monitor.|
