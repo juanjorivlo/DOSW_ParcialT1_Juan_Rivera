@@ -60,7 +60,7 @@ perfiles de tutores.
 |------|-------------|
 | **ID** | RF-03 |
 | **Nombre del requerimiento** |Creación con únicamente monitor de Posgrado|
-| **Descripción** |Como estudiante quiero crear sesiones de monitoria exclusicamente con tutores de posgrado.|
+| **Descripción** |Como estudiante quiero crear sesiones de monitoria exclusicamente con tutores de posgrado para poder trabajar mas comodamente.|
 | **Precondiciones** |  Haber tutorores libres y con las siguientes condiciones de aceptación:
  - Que excluya totalmente a los profesores.
  - No se sobreescriban las sesiones
