@@ -38,7 +38,7 @@ perfiles de tutores.
 
  Campo | Descripción |
 |------|-------------|
-| **ID** | RF-01 |
+| **ID** | RF-02 |
 | **Nombre del requerimiento** |Creación con prioridad de Profesor seguido de Posgrado|
 | **Descripción** |Como estudiante quiero priorizar la seleccion de monitories de esa materia a primera instancia, en segunda estudiantes de posgrado, para poder maximizar mi aprendizaje.|
 | **Precondiciones** |  Haber tutorores libres y con las siguientes condiciones de aceptación:
@@ -58,7 +58,7 @@ perfiles de tutores.
 # PEER_TUTORING
  Campo | Descripción |
 |------|-------------|
-| **ID** | RF-01 |
+| **ID** | RF-03 |
 | **Nombre del requerimiento** |Creación con únicamente monitor de Posgrado|
 | **Descripción** |Como estudiante quiero crear sesiones de monitoria exclusicamente con tutores de posgrado.|
 | **Precondiciones** |  Haber tutorores libres y con las siguientes condiciones de aceptación:
